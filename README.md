@@ -2,6 +2,8 @@
 
 This repo covers our solution for MICCAI2022 Diabetic Retinopathy Analysis Challenge (DRAC).
 
+<img src="imgquality.png" style="zoom:60%;" />
+
 ## Dataset
 
 Download the dataset from the official website: https://drac22.grand-challenge.org/
@@ -50,13 +52,13 @@ pip install torchnet
 └── test.py
 ```
 
-# Train & Eval
+## Train & Eval
 
 ```
 python main.py --model resnet50d
 ```
 
-# Test
+## Test
 
 ```
 python test_multi.py --model resnet50d
