@@ -1,6 +1,6 @@
 # DRAC 2022 Task 2 Image Quality Assessment
 
-This repo covers our solution for MICCAI2022 Diabetic Retinopathy Analysis Challenge (DRAC).
+This repo covers our solution for MICCAI2022 Diabetic Retinopathy Analysis Challenge (DRAC), which solves the task of rating OCTA image quality according to poor, good and excellent.
 
 <img src="imgquality.png" style="zoom:60%;" />
 
